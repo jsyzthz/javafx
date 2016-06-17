@@ -1,2 +1,6 @@
-# javafx
-Test file associations with javafx.
+
+#BUILD
+mvn clean jfx:native
+
+#STEP
+build->install exe-> double click '中国.test'
